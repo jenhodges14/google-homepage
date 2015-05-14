@@ -42,3 +42,13 @@ li a {
   border: 1px solid blue;
   padding: 5px;
 }
+.footer {
+  position: absolute;
+  bottom: 0px;
+  height: 40px;
+  width: 100%;
+  background-color: grey;
+}
+.bottom-nav li {
+  display: inline;
+}
